@@ -1,3 +1,5 @@
-Hi, I'm Leo and I'm 22 years old. Study Control Engineering and Automation at UNESP. I did an internship in Data Analytics at Ultragaz and I am currently a Data Science Intern at Cielo, the largest acquiring and payment method in Brazil. I have knowledge about SQL Server, PowerBI, Python, Statistics and Machine Learning. I intend to pursue a career as a Data Scientist and specialize in Natural Language Processing.
 
-Olá, sou o Leo e tenho 22 anos. Estudo Engenharia de Controle e Automação na UNESP. Estagiei em Data Analytics na Ultragaz e atualmente sou Estagiário de Data Science na Cielo, a maior empresa de adquirência e meios de pagamento do Brasil. Possuo conhecimento sobre SQL Server, PowerBI, Python, Estatística e Machine Learning. Pretendo seguir carreira como Cientista de Dados e me especializar em Processamento de Linguagem Natural.
+Hi, I'm Leo and I'm 23 years old. I'm Graduating in Control and Automation Engineering with emphasis in Computer Engineering at UNESP - 5th year. I have a strong interest in the Data Science & Analytics sectors.
+ -Areas of Technical Knowledge: Mathematical/Statistical Modeling, Optimization, Software Development and Analysis with a focus on Data Science & Analytics.
+ -Business Knowledge Areas: Sectors focused on Finance, Econometrics or Ecommerce.
+ -Knowledge Software: C/C++, MatLAB, Python, SQL Hadoop, PowerBI, Git & GitHub and Cloud AWS.
