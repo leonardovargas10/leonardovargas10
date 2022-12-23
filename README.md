@@ -1,8 +1,8 @@
 
-Hi, I'm Leo and I'm 23 years old. I'm Graduating in Control and Automation Engineering with emphasis in Computer Engineering at UNESP - 5th year. Currently, I work as a Data Scientist at Cielo, the largest Acquiring company in Brazil and I have a strong interest in the Data Science & Analytics sectors.
+Hi, I'm Leo and I'm 23 years old. I'm Graduating in Control and Automation Engineering with emphasis in Computer Engineering at UNESP - 5th year. Currently, I work as a Data Scientist at Cielo.
 
--Areas of Technical Knowledge: Mathematical/Statistical Modeling, Optimization, Software Development and Analysis with a focus on Data Science & Analytics.
+I have knowledge in Mathematical/Statistical Modeling, Optimization, Software Development and Analysis focusing on Data Science & Analytics.
 
--Business Knowledge Areas: Sectors focused on Finance, Econometrics or Ecommerce.
+In addition, I have experience with C/C++, MatLAB, Python & PySpark, SQL Hadoop & SQL Spark, PowerBI, Git & GitHub and Cloud AWS.
 
--Knowledge Software: C/C++, MatLAB, Python, SQL Hadoop, PowerBI, Git & GitHub and Cloud AWS.
+Personal Page: https://leonardovargas10.github.io/portfolio.github.io/
