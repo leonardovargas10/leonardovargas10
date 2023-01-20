@@ -12,4 +12,4 @@ Personal Page: https://leonardovargas10.github.io/portfolio.github.io/
 - 💻 Finalmente, possuo experiência com C/C++, MatLAB, Python & PySpark, SQL Hadoop & SQL Spark, PowerBI, Git & GitHub e Cloud AWS.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardovargas10&show_icons=true&theme=radical)
