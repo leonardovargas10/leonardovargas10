@@ -1,12 +1,15 @@
 
 Personal Page: https://leonardovargas10.github.io/portfolio.github.io/
 
-- 👨‍🏫 Hi, I'm Leo and I'm 23 years old. I'm Graduating in Control and Automation Engineering with emphasis in Computer Engineering at UNESP - 5th year. 
+- 👨‍🏫 Graduando em Engenharia de Controle e Automação com ênfase em Engenharia da Computação pela UNESP - 5º ano.
 
-- 👨‍🔬 Currently, I work as a Data Scientist at Cielo.
+- 👨‍🔬 Atualmente, trabalho como Cientista de Dados na Cielo.
 
-- 📚 I have knowledge in Mathematical/Statistical Modeling, Optimization, Software Development and Analysis focusing on Data Science & Analytics.
+- 📊 Minhas tarefas atuais consistem em Modelagens Matemáticas/Estatísticas e Análise de Dados focada em índices econômicos, comportamento de clientes e desempenho de mercado com foco em transações financeiras. Além disso, também dou suporte em um Modelo de Machine Learning para Cobranças em Transações Financeiras de Ecommerce.
 
-- 📊 In addition, I have experience with C/C++, MatLAB, Python & PySpark, SQL Hadoop & SQL Spark, PowerBI, Git & GitHub and Cloud AWS.
+- 📚 Tenho conhecimento em Modelagem Matemática/Estatística, Otimização, Desenvolvimento de Software e Análises com foco em Data Science & Analytics.
+
+- 💻 Finalmente, possuo experiência com C/C++, MatLAB, Python & PySpark, SQL Hadoop & SQL Spark, PowerBI, Git & GitHub e Cloud AWS.
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
