@@ -1,5 +1,5 @@
 
-Personal Page: https://leonardovargas10.github.io/portfolio.github.io/
+Página Pessoal: https://leonardovargas10.github.io/portfolio.github.io/
 
 - 👨‍🏫 Graduando em Engenharia de Controle e Automação com ênfase em Engenharia da Computação pela UNESP - 5º ano.
 
@@ -11,9 +11,3 @@ Personal Page: https://leonardovargas10.github.io/portfolio.github.io/
 
 - 💻 Finalmente, possuo experiência com C/C++, MatLAB, Python & PySpark, SQL Hadoop & SQL Spark, PowerBI, Git & GitHub e Cloud AWS.
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardovargas10&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovargas10&layout=compact)](https://github.com/leonardovargas10/github-readme-stats)
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
