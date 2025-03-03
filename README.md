@@ -1,8 +1,8 @@
-- 👨‍🏫 Graduando em Engenharia de Controle e Automação com ênfase em Engenharia da Computação pela UNESP - 5º ano.
+- 👨‍🏫 Bacharel em Engenharia de Controle e Automação com ênfase em Engenharia da Computação pela UNESP. Trabalho de Conclusão de Curso: Análise de Risco de Crédito direcionada por Modelagem Matemática e Aprendizado de Máquina.
 
-- 👨‍🔬 Atualmente, trabalho como Analista de Risco de Crédito com foco em Ciência de Dados no Banco Santander, na Superintendência de Métodos Quantitativos para Riscos PF
+- 👨‍🔬 Atualmente, trabalho como Analista de Risco de Crédito com foco em Ciência de Dados no Banco Santander, na área de Credit Risk Models & Methodology. 
 
-- 📊 Minhas tarefas atuais consistem nas definições das Políticas de Crédito no Varejo para PF, Análise de Crédito através de Técnicas de Machine Learning e Modelos Estatísticos, criação de cenários e projeções de impacto em métricas de rentabilidade, geração e acompanhamento dos principais indicadores da área e manipulação de grandes volumes de dados em SQL, Python e PySpark.
+- 📊 Sou responsável por desenvolver Políticas e Modelos de Machine Learning voltados para lidar com a Exposição do Cliente PF, como Modelos de Crédito, Renda e Capacidade de Pagamento; além da criação de simulações matemáticas para monitoramento de indicadores de estabilidade, rentabilidade, mix de públicos e demais projeções de impacto via SQL, Python e PySpark.
 
 - 📚 Tenho conhecimento em Matemática Aplicada, Estatística, Modelagem, Machine Learning, Deep Learning, Séries Temporais, Otimização, Desenvolvimento de Software e Análises com foco integral em Data Science.
 
